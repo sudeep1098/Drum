@@ -25,11 +25,11 @@ function btnanime(currentkey) {
 function makesound(key) {
   switch (key) {
     case "w":
-      var sound = new Audio("./sounds/tom-1.mp3");
+      var sound = new Audio("/sounds/tom-1.mp3");
       sound.play();
       break;
     case "a":
-      var sound = new Audio("./sounds/tom-2.mp3");
+      var sound = new Audio("/sounds/tom-2.mp3");
       sound.play();
       break;
     case "s":
