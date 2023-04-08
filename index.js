@@ -57,15 +57,4 @@ function makesound(key) {
       break;
   }
 }
-/*
-function add(num1, num2) {
-  return num1 + num2;
-}
-function mul(num1, num2) {
-  return num1 + num2;
-}
-function cal(num1, num2, operand) {
-  return operand(num1 , num2);
-}
 
-cal(5, 3, add);*/
